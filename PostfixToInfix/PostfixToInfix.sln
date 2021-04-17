@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostfixToInfix", "PostfixToInfix\PostfixToInfix.csproj", "{3AB2F928-E713-403E-9750-D3680988DFFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB2F928-E713-403E-9750-D3680988DFFE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3AB2F928-E713-403E-9750-D3680988DFFE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3AB2F928-E713-403E-9750-D3680988DFFE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3AB2F928-E713-403E-9750-D3680988DFFE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F6BD526-E301-473F-8F14-16627795FF2C}
+	EndGlobalSection
+EndGlobal
